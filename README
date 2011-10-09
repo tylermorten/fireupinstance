@@ -1,0 +1,7 @@
+This is a rudimentury set of scripts to automate starting up and terminating
+an Amazon EC2 instance.
+
+Currently setup to work with CentOS.  Change the EC2_HOME and JAVA_HOME variables 
+to match your environment.
+
+Licensed under the MIT license.
